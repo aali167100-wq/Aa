@@ -1,0 +1,6 @@
+{
+  "name": "Fun Kids Games",
+  "description": "A colorful 3D cartoon mobile gaming app interface for kids featuring cute characters, puzzle games, racing, matching, educational mini-games, and a giant Play Now button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
